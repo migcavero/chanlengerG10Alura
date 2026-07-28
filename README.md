@@ -1,9 +1,9 @@
-# 🐘 Cindy — Asistente IA de Trompitas Dental
+# 🐘 LuiM — Asistente IA de Comercial
 
-Chatbot corporativo con **RAG** (Retrieval-Augmented Generation) y **agente con herramientas** para la clínica de odontopediatría **Trompitas Dental** (San Juan del Río, Querétaro).
-Cindy responde dudas de pacientes usando **únicamente** la información oficial de la clínica (sin alucinar, citando la fuente) y **agenda citas** dentro del propio chat.
+Chatbot corporativo con **RAG** (Retrieval-Augmented Generation) y **agente con herramientas** para la asesoria comercial en las especificaciones de equipos **Comercial ** (Lima, Lima).
+LuiM responde dudas de pacientes usando **únicamente** la información oficial de la comercial(sin alucinar, citando la fuente) y **información de cotizaciones y citas para capacitaciones** dentro del propio chat.
 
-🔗 **App en vivo:** https://cindy-trompitas.onrender.com
+🔗 **App en vivo:** https://LuiM-comerce.onrender.com
 
 ---
 
@@ -20,7 +20,7 @@ El objetivo del challenge es construir un agente corporativo con RAG, desplegado
 - 📚 **RAG con citación de fuentes**: solo responde con la base de conocimiento oficial.
 - 🚫 **Anti-alucinación**: si el dato no está, lo dice y ofrece contacto humano (WhatsApp).
 - 📅 **Agenda citas** (herramienta del agente) con persistencia.
-- 🐘 **Personalidad propia** (Cindy) y se identifica siempre como asistente digital (IA).
+- 🐘 **Personalidad propia** (LuiM) y se identifica siempre como asistente digital (IA).
 - 📝 **Trazabilidad**: registra cada interacción (pregunta, respuesta, herramienta) para auditoría.
 - 🎨 **Interfaz web propia** (no genérica), cálida y responsiva.
 
@@ -31,7 +31,7 @@ El objetivo del challenge es construir un agente corporativo con RAG, desplegado
 ```mermaid
 flowchart TD
     U["👨‍👩‍👧 Usuario (web)"] --> API["FastAPI /chat"]
-    API --> AG["Agente Cindy<br/>(LangChain + Gemini)"]
+    API --> AG["Agente LuiM<br/>(LangChain + Gemini)"]
     AG -->|"pregunta"| T1["🔎 buscar_informacion<br/>(RAG)"]
     AG -->|"agendar"| T2["📅 agendar_cita"]
     T1 --> VS["🧠 Base vectorial<br/>Chroma (embeddings)"]
@@ -69,12 +69,12 @@ Trompitas Agent/
 │   ├── config.py          # modelos, rutas y parámetros
 │   ├── ingest.py          # Paso 3: chunking + embeddings → Chroma
 │   ├── rag.py             # Paso 4: cadena RAG (retriever + Gemini)
-│   ├── prompts.py         # personalidad y reglas de Cindy
+│   ├── prompts.py         # personalidad y reglas de LuiM
 │   ├── tools.py           # herramientas: buscar_informacion, agendar_cita
 │   ├── agent.py           # Paso 5: agente + trazabilidad (logs)
 │   └── api.py             # Paso 6: backend FastAPI (sirve la web + /chat)
 ├── web/
-│   └── index.html         # interfaz web de Cindy
+│   └── index.html         # interfaz web de LuiM
 ├── data/                  # base vectorial, citas y logs (generados)
 ├── requirements.txt
 ├── Dockerfile · start.sh · .env.example
@@ -125,7 +125,7 @@ GOOGLE_API_KEY=tu_clave_de_google_ai_studio
 **P: ¿Aceptan seguros de gastos médicos?** *(dato que NO está en la base)*
 > Eso no lo tengo con certeza, permíteme corroborar la información. Puedes escribirnos por WhatsApp al **+52 427 335 1918**. *(No inventa el dato.)*
 
-**Agendar:** "Quiero agendar para mi hija Sofía el martes a las 5pm, una limpieza. Tel 427…" → Cindy registra la cita y confirma.
+**Agendar:** "Quiero agendar para mi hija Sofía el martes a las 5pm, una limpieza. Tel 427…" → LuiM registra la cita y confirma.
 
 ---
 
@@ -143,7 +143,7 @@ Cada interacción se guarda en `data/logs/interacciones.jsonl`:
 
 La aplicación está desplegada como **contenedor Docker** y accesible públicamente:
 
-**🔗 https://cindy-trompitas.onrender.com**
+**🔗 https://LuiM-trompitas.onrender.com**
 
 El despliegue usa el `Dockerfile` del proyecto: al arrancar, construye la base vectorial
 (si no existe) y levanta el servidor web (`start.sh`). La única variable requerida es
@@ -151,23 +151,23 @@ El despliegue usa el `Dockerfile` del proyecto: al arrancar, construye la base v
 
 ```bash
 # Reproducible en cualquier host con Docker:
-docker build -t cindy-trompitas .
-docker run -d -p 8000:8000 -e GOOGLE_API_KEY="tu_clave" cindy-trompitas
+docker build -t LuiM-trompitas .
+docker run -d -p 8000:8000 -e GOOGLE_API_KEY="tu_clave" LuiM-trompitas
 ```
 
 ---
 
 ## 📸 Evidencias
 
-Aplicación **en vivo** y funcionando en la URL pública, con la interfaz de Cindy:
+Aplicación **en vivo** y funcionando en la URL pública, con la interfaz de LuiM:
 
-![Interfaz de Cindy en la URL pública](evidencias/evidencia-01.png)
+![Interfaz de LuiM en la URL pública](evidencias/evidencia-01.png)
 
 El usuario pregunta en lenguaje natural sobre las consultas para niños:
 
 ![Pregunta sobre servicios para niños](evidencias/evidencia-02.png)
 
-Cindy responde con precios y servicios reales, **citando la fuente** (base de conocimiento de la clínica):
+LuiM responde con precios y servicios reales, **citando la fuente** (base de conocimiento de la clínica):
 
 ![Respuesta con precios y fuente citada](evidencias/evidencia-03.png)
 
@@ -179,11 +179,11 @@ Respuesta sobre odontopediatría (Dra. Andrea Salas), nuevamente con la fuente c
 
 ![Respuesta sobre odontopediatría](evidencias/evidencia-05.png)
 
-Flujo de **agendamiento** dentro del chat: Cindy solicita los datos para registrar la cita:
+Flujo de **agendamiento** dentro del chat: LuiM solicita los datos para registrar la cita:
 
 ![Flujo de agendamiento de cita](evidencias/evidencia-06.png)
 
-Recordatorios, políticas y Cindy **identificándose como asistente digital (IA)**:
+Recordatorios, políticas y LuiM **identificándose como asistente digital (IA)**:
 
 ![Recordatorios y disclaimer de IA](evidencias/evidencia-07.png)
 
