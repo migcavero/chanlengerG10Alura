@@ -198,4 +198,4 @@ Recordatorios, políticas y Cindy **identificándose como asistente digital (IA)
 
 ## 👤 Autor
 
-**Santiago Hernández** — Challenge AlurAgente (Orquestación de Agentes IA).
+**Luis Miguel Cavero** — Challenge AlurAgente (Orquestación de Agentes IA).
