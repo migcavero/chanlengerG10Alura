@@ -1,0 +1,29 @@
+# METADATOS
+categoria: politicas_operativas
+fuente: manual de operacion
+fecha_actualizacion: 2026-07-20
+version: 1.0
+estado: COMPLETO
+# FIN METADATOS
+
+TÍTULO: Políticas de Atención y Operación
+
+FLUJO DE ATENCIÓN (4 fases)
+- Fase 1 — Agendamiento: responder al cliente en menos de 15 minutos y enviar recordatorio 24 horas antes de la cita.
+- Fase 2 — Recepción: la espera máxima de los clientes es de 15 minutos.
+- Fase 3 — Consulta: se entrega un presupuesto desglosado con opciones de pago.
+- Fase 4 — Seguimiento: mensaje de seguimiento al día siguiente en casos complejos.
+
+POLÍTICA DE CANCELACIÓN
+- El paciente debe avisar con un mínimo de 4 horas de anticipación.
+- Penalización por no presentarse ("no show"): [PENDIENTE — CONFIRMAR]
+
+POLÍTICA DE TOLERANCIA / RETRASO
+- Tolerancia máxima de 15 minutos de retraso del cliente.
+- Qué sucede si se excede la tolerancia: [PENDIENTE — CONFIRMAR]
+
+FORMAS DE PAGO
+- Efectivo, transferencia bancaria y tarjetas.
+
+POLÍTICA DE MENORES DE EDAD
+- Acompañamiento del cleinte debe de ser comunicada con anticipación: [PENDIENTE — CONFIRMAR requisito]

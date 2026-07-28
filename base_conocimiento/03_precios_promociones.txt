@@ -1,0 +1,84 @@
+# METADATOS
+categoria: guia_comercial_inversion_y_ahorro_operativo
+fuente: fichas_tecnicas_canon (DX C3926, C3935; DX C5840-5870; DX 6855, 6860, 6870)
+fecha_actualizacion: 2026-07-27
+version: 1.0
+estado: COMPLETO (con apartados pendientes por confirmar con distribuidor)
+# FIN METADATOS
+
+TÍTULO: Guía de Inversión, Ahorro Operativo y Condiciones Comerciales – Equipos Canon imageRUNNER ADVANCE DX
+
+Este documento consolida la información disponible sobre costos de operación, eficiencia energética, rendimiento de consumibles y condiciones de garantía para orientar al cliente en su decisión de compra. Los precios de lista de los equipos y accesorios NO se incluyen en las fichas técnicas públicas; se obtienen mediante cotización directa con el distribuidor autorizado.
+
+────────────────────────────────────────────
+1) ASESORÍA Y DIAGNÓSTICO DE NECESIDADES (sin costo)
+────────────────────────────────────────────
+- La asesoría comercial para selección de equipo es gratuita.
+- Incluye: análisis de volumen de impresión mensual, tipos de papel, necesidades de acabado (grapado, perforado, cuadernillo) y requisitos de seguridad.
+- Se entrega una propuesta técnica formal con las opciones recomendadas (modelo, accesorios y consumibles).
+- Política comercial: si el cliente concreta la compra, se descuenta el costo de la asesoría personalizada (si aplicara) del presupuesto final (a confirmar según distribuidor).
+
+────────────────────────────────────────────
+2) PROMOCIONES Y DEMOSTRACIONES (vigencia sujeta a distribuidor)
+────────────────────────────────────────────
+- "Prueba de impresión / demo gratuita": disponible para clientes nuevos que estén evaluando equipos de la serie imageRUNNER ADVANCE DX.
+- "Análisis de costo por página (CPP) sin costo": se realiza un estudio comparativo del TCO (Costo Total de Propiedad) frente a equipos de gama inferior o competencia.
+- [PENDIENTE — CONFIRMAR] Promociones de lanzamiento, bonificaciones por trade-in (canje de equipo antiguo) o descuentos por compra de múltiples unidades.
+
+────────────────────────────────────────────
+3) COSTOS DE ADQUISICIÓN (equipos y opciones)
+────────────────────────────────────────────
+- [PENDIENTE — CONFIRMAR] Los precios de lista NO están disponibles en las fichas técnicas. La inversión final depende de:
+  - Modelo seleccionado (C3900, C5800 o serie 6800).
+  - Opciones de papel (AW1, C1, depósito F1).
+  - Opciones de acabado (finalizador AB1, cuadernillos AB1, perforadores).
+  - Accesorios de seguridad y software (SSD adicional, licencias MEAP, uniFLOW).
+- Se recomienda solicitar cotización formal al distribuidor autorizado, quien aplicará las promociones vigentes y tarifas por región.
+- [PENDIENTE — CONFIRMAR] Costos aproximados "desde" para cada gama (ej. entrada, media, alta productividad).
+
+────────────────────────────────────────────
+4) AHORRO OPERATIVO Y EFICIENCIA (datos objetivos)
+────────────────────────────────────────────
+- Consumo eléctrico típico (TEC según Energy Star 3.0):
+  - C3922i: 0,23 kWh | C3926i: 0,26 kWh | C3930i: 0,30 kWh | C3935i: 0,35 kWh.
+  - C5840i a C5870i: (dato no especificado, pero consumo máximo varía entre 1800 y 2000 W).
+  - 6855i: (sin TEC especificado) | 6860i: (sin TEC) | 6870i: 0,85 kWh.
+- Rendimiento de tóner (mayor rendimiento = menor costo por página):
+  - Color C3900: BK 38.000 págs. / Color 25.500 págs. (al 5% cobertura).
+  - Color C5800: BK 57.000 págs. / Color 49.000 págs. (al 5% cobertura).
+  - Blanco y negro 6800: BK 71.500 págs. (al 6% cobertura).
+- Modo de suspensión ultra bajo: 0,8 W en todos los modelos (reduce factura eléctrica en horarios no laborales).
+- Capacidad de papel máxima: hasta 6350 hojas en C5800 → menos recargas y mayor productividad.
+
+────────────────────────────────────────────
+5) FORMAS DE ADQUISICIÓN Y FINANCIAMIENTO
+────────────────────────────────────────────
+- [PENDIENTE — CONFIRMAR] Opciones disponibles según distribuidor:
+  - Compra directa (pago contado).
+  - Transferencia bancaria.
+  - Tarjetas de crédito/débito (posibles meses sin intereses, sujeto a promoción).
+  - Renta / leasing operativo (pago mensual que incluye consumibles y mantenimiento).
+- Facturación: [PENDIENTE — CONFIRMAR] (requisitos fiscales, CFDI, etc.).
+
+────────────────────────────────────────────
+6) GARANTÍA Y SOPORTE TÉCNICO (incluido en los equipos)
+────────────────────────────────────────────
+- Garantía estándar de fábrica (según región y modelo).
+- Serie 6800 (6855i, 6860i, 6870i): incluye **36 meses on site** (servicio técnico en las instalaciones del cliente).
+- [PENDIENTE — CONFIRMAR] Cobertura de garantía para series C3900 y C5800 (se especifica en ficha como "consultar con representante local").
+- [PENDIENTE — CONFIRMAR] Contratos de mantenimiento preventivo y suministro de consumibles (programas tipo "todo incluido").
+- Soporte remoto: herramientas como iWEMC y eMaintenance para monitoreo y diagnóstico a distancia.
+
+────────────────────────────────────────────
+7) CONVENIOS Y PROGRAMAS ESPECIALES
+────────────────────────────────────────────
+- [PENDIENTE — CONFIRMAR] Descuentos para el sector educativo, gobierno o grandes corporativos (volumen).
+- [PENDIENTE — CONFIRMAR] Alianzas con proveedores de software de gestión documental (ej. Kofax Power PDF Advanced, uniFLOW Online).
+- [PENDIENTE — CONFIRMAR] Programas de reciclaje de tóner y gestión de residuos electrónicos (sostenibilidad).
+
+────────────────────────────────────────────
+NOTAS IMPORTANTES
+────────────────────────────────────────────
+- Todos los datos de eficiencia y rendimiento provienen de las fichas técnicas oficiales (Energy Star, rendimiento de tóner, consumo eléctrico).
+- Los precios finales, promociones, formas de pago y condiciones de garantía extendida deben ser validados directamente con el distribuidor o representante comercial de Canon en la región del cliente.
+- Para cotizaciones personalizadas, el asistente LuiM escalará el caso al equipo comercial humano.

@@ -1,0 +1,21 @@
+# METADATOS
+categoria: horarios_y_disponibilidad
+fuente: cuaderno NotebookLM operativo (1cff155d) + manual de operacion + sitio web
+fecha_actualizacion: 2026-07-20
+version: 1.0
+estado: COMPLETO
+# FIN METADATOS
+
+TÍTULO: Horarios de Atención
+
+MODALIDAD
+- La atención se maneja para el horario laboral
+
+HORARIO LUNES A VIERNES (igual todos los días)
+- De 8:30 AM – 06:30 PROMOCIONES
+
+
+RESUMEN SIMPLE PARA EL CHATBOT
+"Atendemos de lunes a viernes:
+
+DÍAS FESTIVOS: [PENDIENTE — CONFIRMAR si cierran en días feriados]

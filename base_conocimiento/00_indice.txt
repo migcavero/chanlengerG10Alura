@@ -1,0 +1,64 @@
+#METADATOS
+categoria: indice_base_conocimiento
+proyecto: Agente IA LuiM - Asesor Comercial Canon (challenge orquestacion de agentes)
+paso: 1 - Extraccion y contenido (construccion de la base de consulta)
+fecha_actualizacion: 2026-07-27
+version: 1.0
+#FIN METADATOS
+
+ÍNDICE DE LA BASE DE CONOCIMIENTO – ASESOR COMERCIAL DE IMPRESIÓN CANON
+
+Fuentes utilizadas:
+Fichas técnicas oficiales de Canon (series imageRUNNER ADVANCE DX C3900, C5800, y 6800).
+Base de conocimiento unificada (archivos .txt extraídos de los PDFs).
+
+Documentos:
+
+01_informacion_general_equipos.txt
+Datos generales de la familia imageRUNNER ADVANCE DX, plataforma de firmware unificada (UFP), procesador de doble núcleo, paneles táctiles, y arquitectura de memoria/almacenamiento (SSD). Incluye conectividad de red y USB.
+📌 Estado: [COMPLETO] – extraído de todas las fichas.
+
+02_modelos_y_velocidades.txt
+Catálogo detallado de modelos:
+
+Color: C3922i, C3926i, C3930i, C3935i (serie C3900); C5840i, C5850i, C5860i, C5870i (serie C5800).
+
+Blanco y negro: 6855i, 6860i, 6870i.
+Velocidades en ppm (A4/A3), tiempos de primera copia y tiempos de calentamiento.
+📌 Estado: [COMPLETO] – tabla consolidada de velocidades.
+
+03_capacidad_y_tipos_de_papel.txt
+Capacidad estándar y máxima de alimentación (bandejas, casetes, multipropósito), gramajes admitidos (52–300 g/m²), tamaños soportados (SRA3, A3, oficios, sobres) y requisitos especiales (como complemento de sobres).
+📌 Estado: [COMPLETO] – extraído de secciones específicas.
+
+04_opciones_de_acabado_y_salida.txt
+Descripción de finalizadores grapadores, de cuadernillos, perforadores (2/4 agujeros), bandejas internas, capacidad de grapado (número de hojas), grapado Eco y bajo demanda, plegado en V/C/zigzag.
+📌 Estado: [COMPLETO] – incluye diferencias entre AE1, AB1, L1 y otros.
+
+05_especificaciones_escaneo_envio_fax.txt
+Resoluciones de escaneo, velocidades del DADF (135/270 ipm), formatos de archivo (PDF, TIFF, JPEG, XPS, Office Open XML), protocolos de envío (SMB, FTP, WebDAV), y especificaciones de fax (G3/Super G3, compresión, memoria).
+📌 Estado: [COMPLETO] – consolidado de todas las series.
+
+06_seguridad_y_software.txt
+Autenticación (foto, PIN, tarjeta, LDAP, uniFLOW), cifrado de SSD (FIPS140-2/3), TPM 2.0, protocolos de red (TLS 1.3, IPSec, IEEE802.1X, WPA3), firewall, herramientas de gestión (iWEMC, eMaintenance, MEAP) y soluciones de impresión móvil (AirPrint, Mopria, Canon PRINT Business).
+📌 Estado: [COMPLETO] – sección robusta de todos los documentos.
+
+07_consumibles_y_rendimiento.txt
+Cartuchos de tóner (C-EXV 64, C-EXV 51, C-EXV 61) con rendimientos estimados al 5% o 6% de cobertura. Incluye referencias de cartuchos de grapas (P1, Y1).
+📌 Estado: [COMPLETO] – datos numéricos de páginas extraídos.
+
+08_precios_disponibilidad.txt
+Tarifas oficiales, costos de opciones (unidades de papel, finalizadores, accesorios, licencias de software) y disponibilidad de inventario en el mercado local.
+📌 Estado: [PENDIENTE — CONFIRMAR] – las fichas técnicas NO incluyen precios; requiere contacto con el departamento comercial o distribuidor autorizado.
+
+09_garantia_soporte_tecnico.txt
+Políticas de garantía (ej. "36 meses on site" para serie 6800), cobertura, condiciones de servicio técnico, y procedimientos para reportar averías o mantenimiento.
+📌 Estado: [PARCIAL] – solo se menciona garantía en algunos modelos; falta detalle de cobertura regional y SLAs.
+
+10_preguntas_frecuentes_tecnicas.txt
+FAQ sobre compatibilidad de papeles, diferencias entre modelos, opciones de red, requisitos de instalación (espacio, peso, consumo eléctrico), y recomendaciones según volumen de impresión.
+📌 Estado: [PARCIAL] – se pueden inferir de las especificaciones; se recomienda ampliar con casos de uso.
+
+11_guion_atencion_comercial.txt
+Identidad del asistente "LuiM 🖨️", tono profesional, disclaimer de IA, reglas de uso de fuentes RAG (citar ficha técnica), escalamiento a humano para cotizaciones, y mensajes de cierre.
+📌 Estado: [COMPLETO] – definido y validado en el prompt anterior.

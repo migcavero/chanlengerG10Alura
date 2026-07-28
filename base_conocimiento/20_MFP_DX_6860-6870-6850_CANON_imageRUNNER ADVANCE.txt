@@ -1,0 +1,332 @@
+================================================================================
+BASE DE CONOCIMIENTO PARA RAG - DISPOSITIVOS MULTIFUNCIÓN CANON imageRUNNER ADVANCE DX
+================================================================================
+
+CONTENIDO EXTRAÍDO DE LAS FICHAS TÉCNICAS:
+
+1. Serie DX C3900 (color) - archivo: DX C3926, C3935.pdf
+2. Serie DX C5800 (color) - archivo: DX C5840, C5850, C5860, C5870.pdf
+3. Serie DX 6855i (blanco y negro) - archivo: FICHA TECNICA DX 6855.pdf
+4. Serie DX 6860i (blanco y negro) - archivo: FICHA TECNICA DX 6860.pdf
+5. Serie DX 6870i (blanco y negro) - archivo: FICHA TECNICA DX 6870.pdf
+
+================================================================================
+1. SERIE imageRUNNER ADVANCE DX C3900 (COLOR)
+================================================================================
+
+UNIDAD PRINCIPAL
+- Tipo: Equipo multifunción láser en color A3
+- Funciones: Impresión, copia, escaneo, envío, almacenamiento y fax opcional
+- Procesador: Doble núcleo de 1,8 GHz
+- Panel: Táctil LCD color TFT WSVGA de 10,1"
+- Memoria: RAM 3,5 GB (CPU principal: 2 GB, CPU imagen: 1 GB + 0,5 GB reservado)
+- Almacenamiento: SSD 256 GB estándar, opcional SSD 1 TB
+
+CONEXIÓN DE INTERFAZ
+- Red: 1000Base-T/100Base-TX/10Base-T; opcional LAN inalámbrica (802.11 b/g/n)
+- Otros: USB 2.0 Host x1, USB 3.0 Host x1, USB 2.0 Device x1; opcional: serie y control de copia
+
+CAPACIDAD DE PAPEL (A4, 80 g/m²)
+- Estándar: 1200 hojas (multipropósito 100 hojas + 2 casetes de 550 hojas)
+- Máximo: 2300 hojas (con unidad de alimentación de casete AW1)
+
+VELOCIDADES DE IMPRESIÓN Y COPIA
+- C3935i: 35 ppm (A4), 17 ppm (A3)
+- C3930i: 30 ppm (A4), 15 ppm (A3)
+- C3926i: 26 ppm (A4), 15 ppm (A3)
+- C3922i: 22 ppm (A4), 15 ppm (A3)
+
+TIEMPO PRIMERA COPIA (A4, BN/CL)
+- C3935i: 5,5 / 7,4 s
+- C3930i/C3926i/C3922i: 6,1 / 8,4 s
+
+RESOLUCIONES
+- Impresión: 1200×1200 ppp
+- Copia: 600×600 ppp
+- Escaneo: 600×600 ppp
+
+TIPOS Y GRAMAJES DE PAPEL
+- Multipropósito: 52–300 g/m² (SRA3 no válido para revestido/pesado >257 g/m²)
+- Casete superior/inferior: 52–256 g/m²
+- Doble cara: 52–220 g/m²
+
+DIMENSIONES Y PESO
+- Con tapa Y3: 565×692×788 mm, 71 kg
+- Con DADF-C1: 565×722×897 mm, 84 kg
+- Con DADF-BA1: 565×719×891 mm, 78 kg
+
+TIEMPO DE CALENTAMIENTO
+- Inicio rápido: ≤4 s
+- Desde reposo: ≤10 s
+- Desde encendido: ≤10 s
+
+CONSUMIBLES
+- Tóner C-EXV 64 BK/C/M/Y
+- Rendimiento (5% cobertura): BK 38.000 págs., C/M/Y 25.500 págs.
+
+OPCIONES DE ACABADO
+- Clasificación, grupo, offset, grapado, encuadernación grapada, perforado, grapado Eco, grapado bajo demanda.
+
+ESPECIFICACIONES DE ESCANEO
+- DADF-C1: capacidad 200 hojas, velocidad una cara 135 ipm, doble cara 270 ipm.
+- DADF-BA1: capacidad 100 hojas, velocidad una cara 70 ipm, doble cara 35 ipm.
+
+ESPECIFICACIONES DE FAX
+- Máx. 2 líneas, módem Super G3 33,6 kbps.
+- Memoria: 30.000 páginas (2000 trabajos).
+- Resolución: 400×400, 200×400, 200×200, 200×100 ppp.
+
+ESPECIFICACIONES DE ALMACENAMIENTO
+- Buzón: 100 carpetas usuario, 1 RX, 50 confidenciales.
+- Espacio avanzado: SMB/WebDAV, 16 GB estándar, máx. 480 GB.
+
+SEGURIDAD
+- Autenticación: usuario, departamento, uniFLOW, tarjeta.
+- Seguridad: impresión segura, PDF cifrado, firma, TLS 1.3, IPSec, IEEE802.1X, WPA3, firewall, TPM 2.0, FIPS140-2/3, protección SSD.
+
+MEDIOAMBIENTE
+- Temperatura: 10–30 °C, humedad 20–80%.
+- Alimentación: 220–240 V, 50/60 Hz, 5 A.
+- Consumo máx.: 1500 W; copia: 613 W; espera: 40,7 W; suspensión: 0,8 W.
+- TEC: C3935i 0,35 kWh; C3930i 0,30; C3926i 0,26; C3922i 0,23 kWh.
+- Ruido: C3935i 64 dB; otros 60 dB (activo).
+
+================================================================================
+2. SERIE imageRUNNER ADVANCE DX C5800 (COLOR)
+================================================================================
+
+UNIDAD PRINCIPAL
+- Tipo: Equipo multifunción láser en color A3
+- Funciones: Impresión, copia, escaneo, envío, almacenamiento y fax opcional
+- Procesador: Doble núcleo de 1,8 GHz
+- Panel: Táctil LCD color TFT WSVGA de 10,1" (abatible hasta 90°)
+- Memoria: RAM 5,0 GB
+- Almacenamiento: SSD 256 GB estándar, opcional 256 GB o 1 TB
+
+CAPACIDAD DE PAPEL (A4, 80 g/m²)
+- Estándar: 1200 hojas (multipropósito 100 hojas + 2 casetes de 550 hojas)
+- Máximo: 6350 hojas (con unidad de alta capacidad C1 y depósito F1)
+
+VELOCIDADES DE IMPRESIÓN
+- C5870i: 70 ppm (A4), 36 ppm (A3), 42 ppm (A4R)
+- C5860i: 60 ppm (A4), 32 ppm (A3), 36 ppm (A4R)
+- C5850i: 50 ppm (A4), 27 ppm (A3), 30 ppm (A4R)
+- C5840i: 40 ppm (A4), 21 ppm (A3), 24 ppm (A4R)
+
+TIEMPO DE CALENTAMIENTO
+- Desde reposo: C5870i ≤7 s; C5860/5850/5840 ≤6 s.
+- Desde encendido (arranque rápido): ≤6 s.
+
+DIMENSIONES Y PESO
+- Dimensiones: 620×722×937 mm
+- Peso: C5870i ~108 kg; C5860/5850 ~105 kg; C5840 ~104 kg.
+
+CONSUMIBLES
+- Tóner C-EXV 51 BK/C/M/Y
+- Rendimiento: BK 57.000 págs., C/M/Y 49.000 págs.
+
+OPCIONES DE ACABADO
+- Finalizador grapador AB1, finalizador de cuadernillos AB1, perforador interno L1, kit 3ª bandeja de copia A1, etc.
+- Grapado: hasta 50 hojas (A4), 40 (A4R), 30 (A3/B4). Grapado Eco y bajo demanda.
+
+OPCIONES DE SEGURIDAD
+- SSD A1 de 256 GB / 1 TB, Kit Replicado en Espejo A1.
+- Seguridad de red: TLS 1.3, IPSec, IEEE802.1X, SNMP V3.0, firewall, WPA3.
+- Seguridad de dispositivo: TPM 2.0, FIPS140-2, protección de integridad.
+
+ESPECIFICACIONES DE ESCANEO
+- DADF integrado, capacidad hasta 200 hojas.
+- Velocidad: una cara 135 ipm, doble cara 270 ipm.
+
+ESPECIFICACIONES DE FAX
+- Máx. 2 líneas (2ª línea opcional), Super G3 33,6 kbps.
+- Memoria: 30.000 páginas.
+
+ESPECIFICACIONES DE ALMACENAMIENTO
+- Buzón: 100 carpetas, 1 RX, 50 confidenciales.
+- Espacio avanzado: 16 GB estándar, máx. 480 GB.
+
+MEDIOAMBIENTE
+- Alimentación: 220–240 V, 50/60 Hz, 6 A.
+- Consumo máx.: C5870i 2000 W; C5860/5850/5840 1800 W.
+- Copia: ~943 W; espera: 53,4 W; suspensión: 0,8 W.
+
+================================================================================
+3. SERIE imageRUNNER ADVANCE DX 6855i (BLANCO Y NEGRO)
+================================================================================
+
+UNIDAD PRINCIPAL
+- Tipo: Equipo multifunción láser en blanco y negro A3
+- Funciones: Impresión, copia, escaneo, envío, almacenamiento y fax opcional
+- Procesador: Doble núcleo de 1,8 GHz
+- Panel: Táctil LCD color TFT WSVGA de 10,1"
+- Memoria: RAM 5 GB (CPU principal 2 GB, CPU imagen 2 GB + 1 GB reservado)
+- Almacenamiento: SSD 256 GB
+
+CAPACIDAD DE PAPEL (A4, 80 g/m²)
+- Estándar: 1200 hojas (1x550 A4 + 1x550 A3 + 100 hojas multipropósito)
+- Máximo: 3450 hojas (con opciones)
+
+VELOCIDAD DE IMPRESIÓN
+- 6855i: hasta 55 ppm (A4), 29 ppm (A3), 36 ppm (A4R)
+
+TIEMPO DE CALENTAMIENTO
+- Inicio rápido: ≤4 s
+- Desde reposo: ≤6 s
+- Desde encendido: ≤6 s
+
+DIMENSIONES Y PESO
+- 620×722×937 mm, aprox. 91 kg
+
+CICLO DE TRABAJO MÁXIMO MENSUAL
+- 200.000 hojas
+
+CONSUMIBLES
+- Tóner C-EXV 61 BK
+- Rendimiento (6% cobertura): 71.500 páginas
+
+OPCIONES DE ACABADO
+- Clasificación, grupo, offset, grapado, encuadernación grapada, perforado, grapado Eco, grapado bajo demanda, plegado en V, C, zigzag.
+
+ESPECIFICACIONES DE IMPRESIÓN
+- Resolución: 1200×1200 ppp
+- Lenguajes: UFR II, PCL6, Adobe PostScript 3
+- Impresión directa: PDF, EPS, TIFF/JPEG, XPS
+- Movilidad: AirPrint, Mopria, Universal Print, Canon PRINT Business, uniFLOW Online
+- SO soportados: Android, Windows 10/11, Chrome OS, macOS 11.2.2+, iOS 15.2+, iPadOS
+
+ESPECIFICACIONES DE COPIA
+- Velocidad: misma que impresión.
+- Resolución: 600×600 ppp.
+- Zoom: 25–400%, múltiples funciones (N en 1, libro a dos páginas, etc.).
+
+ESPECIFICACIONES DE ESCANEO
+- DADF integrado, capacidad hasta 200 hojas.
+- Velocidad: 135 ipm (una cara), 270 ipm (doble cara) – similar a C5800.
+- Resolución: 600×600 ppp.
+- Formatos: TIFF, JPEG, PDF, XPS, Office Open XML.
+
+ESPECIFICACIONES DE ENVÍO
+- Destinos: correo electrónico, SMB 3.1.1, FTP, WebDAV, buzón.
+- Funciones: envío retardado, vista previa, informe, etc.
+
+ESPECIFICACIONES DE FAX
+- 1 línea, Super G3 33,6 kbps.
+- Memoria: 30.000 páginas (2000 trabajos).
+- Resolución: 400×400, 200×400, 200×200, 200×100 ppp.
+
+SEGURIDAD
+- Autenticación: usuario, departamento, tarjeta, uniFLOW.
+- Seguridad: impresión segura, PDF cifrado, firma, TLS 1.3, IPSec, IEEE802.1X, WPA3, firewall, TPM 2.0, FIPS140-2, protección SSD.
+
+MEDIOAMBIENTE
+- Alimentación: 220–240 V, 50/60 Hz, 6 A.
+- Consumo máx.: ~1800 W.
+- Ruido: activo 50 dB.
+
+================================================================================
+4. SERIE imageRUNNER ADVANCE DX 6860i (BLANCO Y NEGRO)
+================================================================================
+
+UNIDAD PRINCIPAL
+- Misma estructura que 6855i, con velocidades superiores.
+
+VELOCIDAD DE IMPRESIÓN
+- 6860i: hasta 60 ppm (A4), 32 ppm (A3), 36 ppm (A4R)
+
+CICLO DE TRABAJO MÁXIMO MENSUAL
+- 300.000 hojas
+
+TIEMPO DE CALENTAMIENTO
+- Inicio rápido: ≤4 s
+- Desde reposo: ≤6 s
+- Desde encendido: ≤6 s
+
+PESO
+- Aprox. 91 kg
+
+RESTO DE ESPECIFICACIONES (Memoria, almacenamiento, capacidades de papel, acabados, escaneo, fax, seguridad, consumibles)
+- Idénticas a la serie 6855i, salvo las velocidades y el ciclo de trabajo.
+
+CONSUMIBLES
+- Tóner C-EXV 61 BK (mismo rendimiento).
+
+================================================================================
+5. SERIE imageRUNNER ADVANCE DX 6870i (BLANCO Y NEGRO)
+================================================================================
+
+UNIDAD PRINCIPAL
+- Misma estructura que 6855i/6860i.
+
+VELOCIDAD DE IMPRESIÓN
+- 6870i: hasta 70 ppm (A4), 36 ppm (A3), 42 ppm (A4R)
+
+CICLO DE TRABAJO MÁXIMO MENSUAL
+- 350.000 hojas
+
+TIEMPO DE CALENTAMIENTO
+- Inicio rápido: ≤4 s
+- Desde reposo: ≤7 s
+- Desde encendido: ≤6 s
+
+PESO
+- Aprox. 91 kg
+
+CONSUMIBLES
+- Tóner C-EXV 61 BK (71.500 páginas al 6% de cobertura).
+
+RESTO DE ESPECIFICACIONES
+- Coinciden con las series 6855/6860 en memoria, almacenamiento, capacidades de papel, opciones de acabado, escaneo, fax, seguridad y medioambiente.
+
+================================================================================
+ESPECIFICACIONES COMUNES A TODAS LAS SERIES (CUANDO APLICA)
+================================================================================
+
+LENGUAJES DE IMPRESIÓN
+- UFR II, PCL6, Adobe PostScript 3 (estándar).
+- Impresión directa: PDF, EPS, TIFF/JPEG, XPS.
+
+MOVILIDAD Y NUBE
+- AirPrint, Mopria, Universal Print de Microsoft, Canon PRINT Business, uniFLOW Online (opcional).
+
+SISTEMAS OPERATIVOS SOPORTADOS
+- Android, Windows 10/11, Chrome OS, macOS 11.2.2+, iOS 15.2+, iPadOS.
+
+FUENTES
+- PS: 136 Roman.
+- PCL: 93 Roman, 10 bitmap, 2 OCR, Andalé Mono WT J/K/S/T (requiere conjunto internacional PCL opcional), fuentes de códigos de barras (requiere kit de impresión de código de barras D1).
+
+FUNCIONES DE IMPRESIÓN
+- Impresión protegida con contraseña, marca sobreimpresa, encabezado/pie, diseño, doble cara, mezcla de tamaños, cubiertas, ahorro de tóner, cartelería, impresión retenida, fecha, programación.
+
+FUNCIONES DE COPIA
+- Múltiples copias hasta 999, densidad automática/manual (9 niveles), zoom variable (25-400%), preajustes de reducción/ampliación, funciones avanzadas (N en 1, libro a dos páginas, numeración, borrado de bordes, tarjeta de identificación, omisión de páginas en blanco, copia reservada, muestra).
+
+FUNCIONES DE ENVÍO UNIVERSAL
+- Selección de tipo original, dos caras, libro a dos páginas, tamaños mezclados, densidad, nitidez, escala, borrado de bordes, creación de trabajos, envío retardado, vista previa, aviso, nombre de archivo, asunto, prioridad, informe de TX, orientación, omitir páginas en blanco.
+
+SEGURIDAD (resumen común)
+- Autenticación: foto, PIN, tarjeta, usuario/contraseña, ID departamento, uniFLOW, control de acceso.
+- Seguridad documentos: impresión segura, cifrado, firmas, buzones con contraseña, reenvío automático, restricción de envío, S/MIME.
+- Seguridad red: TLS 1.3, IPSec, IEEE802.1X, SNMP v3, firewall (IP/MAC), WPA3, red dual, desactivación de puertos/protocolos.
+- Seguridad dispositivo: cifrado SSD (FIPS140-2/3), bloqueo SSD, inicialización segura, TPM 2.0, integridad de software, Common Criteria HCD-PP.
+
+MEDIOAMBIENTE (común)
+- Temperatura: 10-30 °C; humedad 20-80%.
+- Alimentación: 220-240 V, 50/60 Hz.
+- Modo suspensión: 0,8 W.
+- Certificaciones: Blue Angel, Energy Star 3.0.
+
+OPCIONES Y ACCESORIOS DISPONIBLES
+- Unidades adicionales de papel (AW1, AG1, C1, depósito F1).
+- Finalizadores: grapador AE1/AB1, cuadernillos AE1/AB1, interno L1, bandejas de copia (T2, A1, etc.).
+- Perforadores de 2/4 agujeros (internos o externos).
+- Lectores de tarjetas (MiCard Plus, etc.).
+- Teclado numérico, cubierta de impresora, unidad de paso de búfer (P1/P2), bandeja de utilidades.
+- Seguridad: SSD adicionales (256 GB / 1 TB), kit de duplicación.
+- Accesibilidad: asa ADF, guía por voz, funcionamiento por voz.
+- Consumibles: cartuchos de grapas (Y1, P1).
+
+================================================================================
+FIN DEL DOCUMENTO
+================================================================================

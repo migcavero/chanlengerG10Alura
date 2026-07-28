@@ -1,0 +1,96 @@
+# METADATOS
+categoria: preguntas_frecuentes_comerciales
+fuente: fichas_tecnicas_canon + mejores_practicas_ventas
+fecha_actualizacion: 2026-07-27
+version: 1.0
+estado: COMPLETO (con apartados comerciales pendientes de confirmar con distribuidor)
+# FIN METADATOS
+
+TÍTULO: Preguntas Frecuentes (FAQ) – Asesoría Comercial Canon imageRUNNER ADVANCE DX
+
+────────────────────────────────────────────
+P: ¿Solo ofrecen equipos en color o también en blanco y negro?
+────────────────────────────────────────────
+R: Ofrecemos ambas tecnologías. Para color, contamos con las series C3900 (22 a 35 ppm) y C5800 (40 a 70 ppm). Para blanco y negro de alto rendimiento, la serie 6800 (55 a 70 ppm). La elección depende del volumen y tipo de documentos que manejes. Puedo ayudarte a definir cuál se ajusta mejor a tu flujo de trabajo.
+
+────────────────────────────────────────────
+P: ¿Dónde puedo ver los equipos físicamente o recibir una demostración?
+────────────────────────────────────────────
+R: La asesoría inicial es completamente virtual (videollamada o chat). Si requieres una demostración presencial con el equipo físico, podemos coordinarla a través de nuestro distribuidor autorizado en tu región. Escríbeme y te contacto con el ejecutivo más cercano.
+
+────────────────────────────────────────────
+P: ¿Cómo agendo una asesoría comercial o demostración del equipo?
+────────────────────────────────────────────
+R: Es muy sencillo. Solo necesito algunos datos para personalizar la sesión: volumen mensual de impresión, tipo de documentos (color o B/N, tamaño A4/A3), y si requieres acabados especiales (grapado, perforado, cuadernillos). Puedes agendarme directamente por este chat o escribir al correo {correo_comercial}. Respondemos en menos de 15 minutos en horario laboral.
+
+────────────────────────────────────────────
+P: ¿Tienen alguna promoción o demo gratuita?
+────────────────────────────────────────────
+R: Sí. Para clientes nuevos ofrecemos un ANÁLISIS DE COSTO POR PÁGINA (CPP) SIN COSTO y una demostración práctica del equipo recomendado, sin compromiso de compra. Así puedes evaluar el ahorro real frente a tu equipo actual.
+
+────────────────────────────────────────────
+P: ¿Qué opciones de adquisición ofrecen?
+────────────────────────────────────────────
+R: Las formas de compra varían según el distribuidor autorizado, pero generalmente incluyen:
+- Compra directa (contado o transferencia).
+- Tarjetas de crédito/débito (sujeto a promociones de MSI).
+- Renta o leasing operativo (pago mensual que puede incluir consumibles y mantenimiento).
+[PENDIENTE — CONFIRMAR] Condiciones exactas y financiamiento según la región del cliente.
+
+────────────────────────────────────────────
+P: ¿Con cuánto tiempo debo avisar si no puedo asistir a la asesoría o demo?
+────────────────────────────────────────────
+R: Con un mínimo de 4 horas de anticipación. Así podemos reagendar sin problema y optimizar la agenda de nuestros especialistas.
+
+────────────────────────────────────────────
+P: ¿Cuál es el horario de atención comercial?
+────────────────────────────────────────────
+R: Nuestro horario de atención para asesorías es de lunes a viernes de 9:00 a 18:00 hrs (hora centro). Fuera de este horario, el asistente LuiM queda activo para recibir tu mensaje y te contactaremos al inicio de la jornada siguiente. Para soporte técnico post-venta, contamos con canales específicos (consultar con tu distribuidor).
+
+────────────────────────────────────────────
+P: ¿Qué debo hacer si mi equipo presenta una falla técnica o necesito soporte post-venta?
+────────────────────────────────────────────
+R: Este canal de asesoría comercial está enfocado en la compra y selección de equipos. Para fallas técnicas o mantenimiento, Canon cuenta con centros de servicio autorizados y, en el caso de la serie 6800, incluye garantía "on site" de 36 meses. Te recomiendo contactar a tu distribuidor o al centro de soporte técnico de Canon para una atención rápida.
+
+────────────────────────────────────────────
+P: ¿La asesoría o diagnóstico inicial tiene algún costo?
+────────────────────────────────────────────
+R: No, la asesoría comercial para selección de equipo es completamente gratuita. El análisis de necesidades, la comparativa de modelos y la propuesta técnica no tienen cargo. Los precios de los equipos y accesorios se cotizan formalmente una vez que definimos el modelo ideal para ti.
+
+────────────────────────────────────────────
+P: ¿Puedo recibir asesoría sin cita previa o debo agendar?
+────────────────────────────────────────────
+R: La atención personalizada es únicamente con cita previa. Esto nos permite dedicar el tiempo necesario para entender tu flujo de trabajo y preparar la demostración o cotización más precisa. Puedes agendar fácilmente por este chat o al correo {correo_comercial}.
+
+────────────────────────────────────────────
+P: ¿Tienen convenios con grandes corporativos o descuentos por volumen?
+────────────────────────────────────────────
+R: Sí, manejamos programas comerciales especiales para empresas con múltiples equipos o compras por volumen. También existen acuerdos para el sector educativo y gobierno.
+[PENDIENTE — CONFIRMAR] Los descuentos específicos y condiciones se definen con el distribuidor autorizado según el volumen y región.
+
+────────────────────────────────────────────
+P: ¿El equipo requiere instalación especial o algún accesorio adicional no incluido?
+────────────────────────────────────────────
+R: El equipo base incluye dos casetes de papel (550 hojas c/u) y una bandeja multipropósito (100 hojas). Dependiendo de tus necesidades, puedes agregar:
+- Unidades de papel extra (hasta 6350 hojas en C5800).
+- Finalizadores (grapador, cuadernillos, perforador).
+- Accesorios de seguridad (SSD adicional, kit de duplicación).
+- Software de gestión (uniFLOW, MEAP).
+Te recomiendo definir estos puntos durante la asesoría para que la cotización sea exacta.
+
+────────────────────────────────────────────
+P: ¿Puedo usar mi propio papel durante la demostración?
+────────────────────────────────────────────
+R: Sí, puedes traer tus propias muestras de papel para probar la calidad de impresión y el rendimiento con tus materiales habituales. Solo asegúrate de que el gramaje esté dentro del rango soportado (52 a 300 g/m² en multipropósito, y hasta 256 g/m² en casetes). Así podrás evaluar el desempeño real con tus insumos.
+
+────────────────────────────────────────────
+P: ¿Cuánto tiempo tarda la entrega una vez que decido comprar?
+────────────────────────────────────────────
+R: [PENDIENTE — CONFIRMAR] Los plazos de entrega dependen del modelo, la disponibilidad de inventario y la ubicación del cliente. Este dato debe ser validado directamente con el distribuidor autorizado al momento de generar la orden de compra.
+
+────────────────────────────────────────────
+NOTA IMPORTANTE PARA EL ASISTENTE LuiM:
+────────────────────────────────────────────
+- Si el usuario pregunta por precios concretos, derivar al escalamiento humano (C18) para cotización formal.
+- Si el usuario reporta una falla en un equipo ya adquirido, ofrecer el número de soporte técnico o contacto del distribuidor (no intentar diagnosticar).
+- Toda la información técnica (velocidades, gramajes, consumos) está respaldada en las fichas técnicas oficiales de Canon.

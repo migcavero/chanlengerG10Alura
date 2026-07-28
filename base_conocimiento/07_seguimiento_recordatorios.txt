@@ -1,0 +1,166 @@
+# METADATOS
+categoria: seguimiento_y_recordatorios
+fuente: manual de operacion + desarrollo propio (challenge)
+fecha_actualizacion: 2026-07-20
+version: 1.0
+estado: PLANTILLAS DESARROLLADAS - PENDIENTE VALIDAR HORARIOS Y TONO
+# FIN METADATOS
+
+TÍTULO: Plantillas de Mensajes, Recordatorios y Seguimiento
+
+===========================================================================
+A. REGLAS OPERATIVAS (confirmadas — manual de operación)
+===========================================================================
+- Atención SOLO con cita previa.
+- Primera respuesta al agendar: en menos de 15 minutos.
+- Recordatorio de cita: 24 horas antes.
+- Seguimiento post-consulta: al día siguiente, en casos complejos.
+- Cancelación: avisar con mínimo 4 horas de anticipación.
+- Tolerancia de retraso del paciente: máximo 15 minutos.
+- Canal principal: WhatsApp (+51 979 374 569).
+
+===========================================================================
+B. CONVENCIÓN DE VARIABLES (se reemplazan al enviar)
+===========================================================================
+{nombre}        = nombre de la persona o cliente que escribe 
+{cliente}      = nombre del cleinto o empresa que consulta (puede ser persona natural o empresa)
+{fecha}         = fecha de la visita (ej. "martes 22 de julio")
+{hora}          = hora de la visita (ej. "5:30 pm")
+{servicio}      = motivo/servicio (ej. "revisión de equipos / asesoria de funcionamiento")
+{ejecutivo comercial}  = ejecutivo comercial asignada (ej. "Srta. Patricia, Sr. Lopez")
+{meses}         = mes o meses pryectado de compra y/o visita 
+{link_agenda}   = enlace o número para agendar
+
+NOTA DE ESTILO: tono cálido, cercano y amigable con familias. Emojis con moderación.
+Español de Perú. El bot SIEMPRE se identifica como asistente virtual (ver doc 09).
+
+===========================================================================
+C. LIBRERÍA DE PLANTILLAS COMERCIALES – LuiM 🖨️
+(por etapa del recorrido del cliente)
+===========================================================================
+
+--- C1. BIENVENIDA / PRIMER CONTACTO (Asesoría inicial) ---
+"¡Hola! Soy LuiM 🖨️, tu asesor comercial virtual de soluciones de impresión Canon.
+Estoy aquí para ayudarte a encontrar el equipo multifunción que mejor se adapte a tu negocio.
+¿Sobre qué modelo, característica o necesidad te gustaría consultar hoy?"
+[Variante rápida]
+"¡Hola! 👋 Soy LuiM, asesor de equipos Canon. Puedo orientarte sobre velocidades,
+capacidad de papel, acabados y seguridad de la serie imageRUNNER ADVANCE DX.
+¿En qué te apoyo? 😊"
+
+--- C2. SOLICITUD DE DATOS PARA DIAGNÓSTICO COMERCIAL ---
+"¡Con gusto te ayudo a identificar la mejor solución! 📋 Para hacer un diagnóstico preciso,
+necesito entender tu flujo de trabajo:
+1) Volumen mensual aproximado de impresión (¿cuántas hojas al mes?)
+2) Tipo de documentos (¿color o blanco y negro? ¿tamaños A4, A3 o mixtos?)
+3) ¿Requieres acabados especiales? (grapado, perforado, cuadernillos o plegado)
+4) ¿Buscas integración con nube, seguridad avanzada o impresión móvil?
+Cuéntame y te comparto las opciones más adecuadas. 🖨️"
+
+--- C3. ORIENTACIÓN SOBRE INVERSIÓN (cuando preguntan precios antes de definir necesidad) ---
+"El costo final depende del modelo y accesorios, pero te puedo guiar por gama. 🎯
+Para oficinas con volumen moderado en color, la serie C3900 es ideal. Para alta producción,
+la C5800 ofrece hasta 70 ppm y mayor capacidad de papel. Y si tu flujo es mayoritariamente
+blanco y negro, la serie 6800 es imbatible en costo por página.
+¿Te parece si agendamos una asesoría para afinar la cotización? 😊"
+
+--- C4. CONFIRMACIÓN DE ASESORÍA / DEMOSTRACIÓN AGENDADA ---
+"¡Listo, {nombre}! ✅ Quedó agendada tu asesoría personalizada:
+🗓️ {fecha}
+🕒 {hora}
+📋 Tema: {equipo o necesidad a revisar}
+📍 Modalidad: {presencial / videollamada}
+Si necesitas reagendar, avísanos con al menos 4 horas de anticipación.
+¡Te esperamos para encontrar la mejor solución! 💙"
+
+--- C5. RECORDATORIO 24 HORAS ANTES (de asesoría o demo) ---
+"¡Hola {nombre}! 🖨️ Te recordamos nuestra asesoría MAÑANA:
+🗓️ {fecha}  🕒 {hora}
+📍 {modalidad / enlace de reunión}
+¿Nos confirmas tu asistencia? Responde SÍ para confirmar o escríbenos si necesitas
+reagendar. ¡Te esperamos para optimizar tus procesos! 😊"
+
+--- C6. RECORDATORIO EL MISMO DÍA (2-3 h antes) ---
+"¡Hola {nombre}! 😊 Te esperamos hoy a las {hora} para nuestra asesoría sobre
+{equipo o necesidad}. Ten a mano tus necesidades de impresión (volumen, formatos, etc.)
+para que podamos afinar la propuesta. ¡Nos vemos pronto! 🖨️"
+
+--- C7. RESPUESTA A CONFIRMACIÓN DEL CLIENTE ---
+[Si confirma]
+"¡Perfecto, {nombre}! 🎉 Tu asesoría queda confirmada para {fecha} a las {hora}.
+¡Prepara tus dudas y te ayudo a elegir el equipo ideal! 💙"
+[Si no puede asistir]
+"¡No te preocupes, {nombre}! 😊 ¿Qué día y horario te acomoda mejor? Con gusto
+reagendamos la sesión para analizar tu caso."
+
+--- C8. REAGENDAR ASESORÍA O DEMOSTRACIÓN ---
+"¡Claro que sí, {nombre}! 🗓️ Dime qué día y horario te funcionan y reviso mi agenda
+para coordinar la asesoría sobre {equipo o necesidad}. Recuerda que las sesiones
+son personalizadas y sin costo. 💙"
+
+--- C9. CANCELACIÓN DE ASESORÍA ---
+"Entendido, {nombre}. ✅ He cancelado la sesión del {fecha}. Cuando quieras retomar
+el análisis de tu flujo de impresión, aquí estaré para ayudarte. ¡Saludos! 💙"
+
+--- C10. RECUPERACIÓN DE INASISTENCIA (no-show a la asesoría) ---
+"¡Hola {nombre}! 😊 Notamos que no pudiste conectar a la asesoría sobre {equipo}.
+Entendemos que surgen imprevistos. ¿Te gustaría reagendarla? Elegir el equipo adecuado
+marca la diferencia en productividad y ahorro. Estoy para apoyarte. 🖨️"
+
+--- C11. SEGUIMIENTO POST-ASESORÍA (al día siguiente o tras envío de cotización) ---
+"Hola {nombre} 💙 Esperamos que la información compartida sobre {equipo} haya sido de utilidad.
+¿Quedó clara la propuesta? Si tienes dudas sobre la cotización, especificaciones o
+tiempos de entrega, con mucho gusto te ayudo. ¡Estamos al pendiente! 🖨️"
+
+--- C12. RECOMENDACIONES TÉCNICAS / BUENAS PRÁCTICAS POST-COMPRA ---
+"Hola {nombre} 😊 Te compartimos algunas recomendaciones para sacar el máximo
+provecho a tu nuevo equipo {modelo}:
+- Usa papel dentro de los gramajes recomendados (52-300 g/m² en multipropósito).
+- Activa el modo de suspensión para ahorrar energía (0,8 W en reposo).
+- Programa mantenimientos preventivos cada cierto volumen.
+Cualquier duda técnica, escríbenos por aquí. ¡Que tengas excelentes impresiones! 🖨️"
+[PENDIENTE — CONFIRMAR: ¿se desea incluir checklist de instalación o calibración?]
+
+--- C13. REACTIVACIÓN / RECORDATORIO DE REVISIÓN DE CONSUMIBLES Y CRECIMIENTO (recall) ---
+"¡Hola {nombre}! 🖨️ Han pasado {meses} meses desde tu asesoría inicial con {modelo}.
+¿Cómo ha ido con el equipo? Es un buen momento para revisar el estado de tus consumibles
+y evaluar si tu volumen de impresión ha crecido. ¿Agendamos una revisión de tu flujo? 😊"
+[PENDIENTE — CONFIRMAR frecuencia propuesta: cada 6 meses para evaluar crecimiento y reposición.]
+
+--- C14. FELICITACIÓN DE ANIVERSARIO DE COMPRA (opcional, fideliza) ---
+"¡Feliz aniversario con tu equipo Canon, {nombre}! 🎉🖨️ En este año has impreso,
+copiado y escaneado con la mejor tecnología. Si necesitas ampliar capacidades
+(como un nuevo finalizador o actualización de software), aquí estoy para asesorarte. 💙"
+
+--- C15. AUTORESPUESTA FUERA DE HORARIO COMERCIAL ---
+"¡Hola! 🖨️ Gracias por escribir al asesor comercial LuiM. En este momento estamos fuera
+de horario, pero tu mensaje es importante y te responderemos en cuanto abramos.
+Horario de atención: L-V de 9:00 a 18:00 hrs (o consulta con tu distribuidor local).
+Si necesitas soporte técnico urgente, contacta a tu centro de servicio autorizado. 💙"
+
+--- C16. PROMOCIÓN / DEMOSTRACIÓN SIN COSTO ---
+"¿Es la primera vez que consideras un equipo Canon? 🎉 ¡Bienvenido a la familia imageRUNNER! 🖨️
+Como cliente nuevo, te ofrecemos un ANÁLISIS DE COSTO POR PÁGINA (CPP) SIN COSTO
+y una demostración práctica del equipo que más se ajuste a tu flujo.
+Agenda y descubre cómo podemos optimizar tu inversión. Escríbeme para coordinar. 😊"
+
+--- C17. SOLICITUD DE CASO DE ÉXITO / FEEDBACK (tras una compra o asesoría satisfactoria) ---
+"¡Gracias por confiar en Canon y en mí, {nombre}! 💙 Si la asesoría o el equipo
+{modelo} ha cumplido tus expectativas, nos ayudaría muchísimo tu testimonio
+(compartir tu experiencia en un breve caso de éxito). ⭐ Solo toma un minuto:
+{link_formulario}
+¡Gracias por ayudarnos a llevar soluciones de impresión a más empresas! 🖨️"
+
+--- C18. ESCALAMIENTO A UN EJECUTIVO COMERCIAL HUMANO ---
+"Con gusto te conecto con un ejecutivo comercial especializado para atenderte
+personalmente. 💙 Escríbenos al correo {correo_comercial} o déjame tu número
+y te contactamos para afinar los detalles de la cotización. 😊"
+
+===========================================================================
+D. PENDIENTES PARA CERRAR ESTE DOCUMENTO (actualizados para LuiM)
+===========================================================================
+- Validar el TONO general y el uso de emojis (¿así está bien, con la combinación de profesionalismo y cercanía, o se prefiere más formal?).
+- Confirmar frecuencia de seguimiento post-venta (C13) — propuesta: cada 6 meses para evaluar consumibles y crecimiento.
+- ¿Se desea plantilla en algún otro canal además de WhatsApp (ej. correo electrónico formal para cotizaciones, o llamada telefónica)?
+- [PENDIENTE — CONFIRMAR] Incluir checklist de instalación/calibración en C12 (según guías de Canon).
+- [PENDIENTE — CONFIRMAR] Definir correo de contacto para escalamiento (C18) y horario comercial exacto (C15).

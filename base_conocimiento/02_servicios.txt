@@ -1,0 +1,114 @@
+# METADATOS
+categoria: guia_comercial_y_referencias_tecnicas
+fuente: fichas_tecnicas_canon (DX C3926, C3935; DX C5840-5870; DX 6855, 6860, 6870)
+fecha_actualizacion: 2026-07-27
+version: 1.0
+estado: COMPLETO
+# FIN METADATOS
+
+TÍTULO: Portafolio de Equipos y Recomendaciones Técnicas – Asesoría Comercial Canon
+
+Esta guía consolida las especificaciones clave de la familia imageRUNNER ADVANCE DX para orientar a clientes en la selección del equipo multifunción (impresión, copia, escaneo, envío, fax) según su volumen, tipo de papel, acabados y necesidades de seguridad.
+
+────────────────────────────────────────────
+1) GAMA DE EQUIPOS – VISIÓN GENERAL
+────────────────────────────────────────────
+- Procesador: doble núcleo de 1,8 GHz en toda la línea.
+- Panel táctil LCD color TFT WSVGA de 10,1" (abatible en modelos C5800 y 6800).
+- Memoria RAM: 3,5 GB en serie C3900; 5,0 GB en C5800 y 6800.
+- Almacenamiento: SSD 256 GB estándar; opcional SSD 1 TB en C3900/C5800.
+- Conectividad: 1000Base‑T/100Base‑TX/10Base‑T, USB 2.0/3.0, y opción de LAN inalámbrica (802.11 b/g/n) + Bluetooth LE en modelos superiores.
+
+────────────────────────────────────────────
+2) EQUIPOS COLOR – SERIE C3900 (entrada-gama media)
+────────────────────────────────────────────
+Modelos: C3922i, C3926i, C3930i, C3935i.
+- Velocidad impresión/copia (A4): 22 a 35 ppm (según modelo).
+- Velocidad en A3: 15 a 17 ppm.
+- Tiempo primera copia (BN/CL): C3935i: 5,5/7,4 s; resto: 6,1/8,4 s.
+- Resolución impresión: 1200×1200 ppp; copia: 600×600 ppp.
+- Capacidad papel estándar: 1200 hojas; máxima: 2300 hojas (con AW1).
+- Gramajes: multipropósito 52–300 g/m²; casetes 52–256 g/m²; doble cara 52–220 g/m².
+- Consumo típico (TEC Energy Star 3.0): 0,23 – 0,35 kWh.
+- Ideal para: pequeñas y medianas oficinas con volumen moderado de color.
+
+────────────────────────────────────────────
+3) EQUIPOS COLOR – SERIE C5800 (alta productividad)
+────────────────────────────────────────────
+Modelos: C5840i, C5850i, C5860i, C5870i.
+- Velocidad impresión (A4): 40 a 70 ppm; A3: 21 a 36 ppm; A4R: 24 a 42 ppm.
+- Tiempo calentamiento desde reposo: 6‑7 s; desde encendido: 6 s.
+- Capacidad papel estándar: 1200 hojas; máxima: 6350 hojas (con C1 + F1).
+- Gramajes: multipropósito 52–300 g/m²; casetes y doble cara hasta 256 g/m².
+- Opciones de acabado: finalizador grapador AB1 (hasta 50 hojas), cuadernillos AB1, perforador interno L1 (2/4 agujeros), bandeja 3ª copia A1.
+- Peso: 104‑108 kg (según modelo).
+- Ideal para: grandes volúmenes de impresión en entornos corporativos y de producción.
+
+────────────────────────────────────────────
+4) EQUIPOS BLANCO Y NEGRO – SERIE 6800 (monocromo de alto rendimiento)
+────────────────────────────────────────────
+Modelos: 6855i, 6860i, 6870i.
+- Velocidad impresión (A4): 55, 60 y 70 ppm; A3: 29, 32 y 36 ppm; A4R: 36 a 42 ppm.
+- Ciclo máximo mensual: 200.000 (6855i), 300.000 (6860i), 350.000 (6870i) hojas.
+- Tiempo calentamiento desde reposo: 6‑7 s; desde encendido: 6 s.
+- Capacidad papel estándar: 1200 hojas; máxima: 3450 hojas.
+- Gramajes y tamaños: idénticos a serie C5800 (multipropósito 52–300 g/m²).
+- Garantía: 36 meses on site (incluida para estos modelos).
+- Ideal para: oficinas con tiradas masivas de documentos en blanco y negro (facturación, informes, contratos).
+
+────────────────────────────────────────────
+5) CAPACIDAD Y TIPOS DE PAPEL SOPORTADOS
+────────────────────────────────────────────
+- Tamaños estándar: SRA3, A3, A4, A4R, A5, A5R, A6R, B4, B5, B5R.
+- Tamaños personalizados: desde 98×139,7 mm hasta 320×457,2 mm.
+- Sobres: COM10 n.º 10, Monarch, DL, ISO‑C5 (requiere complemento de alimentación de sobres en algunos modelos).
+- Tipos de papel: fino, normal, reciclado, en color, grueso, revestido, vegetal, Bond, transparencia, etiqueta, preperforado, membrete, separador, sobre.
+- Nota: en serie C3900, SRA3 no admite papel revestido ni pesado de 257‑300 g/m².
+
+────────────────────────────────────────────
+6) OPCIONES DE ACABADO Y SALIDA
+────────────────────────────────────────────
+- Finalizador grapador AE1/AB1: grapado en esquina o doble, hasta 50 hojas (A4) y 30 hojas (A3).
+- Finalizador de cuadernillos AB1: encuadernación grapada central, plegado sin grapas (hasta 3 hojas), capacidad 20 hojas × 10 juegos.
+- Perforadores: 2 o 4 agujeros (disponibles para finalizadores internos o externos).
+- Grapado Eco: hasta 10 hojas (según gramaje) para reducir consumo de grapas.
+- Plegado en V, C y zigzag (disponible en serie 6800 con opciones específicas).
+- Capacidad de salida máxima: hasta 3450 hojas (dependiendo de configuración).
+
+────────────────────────────────────────────
+7) SEGURIDAD Y SOFTWARE DE GESTIÓN
+────────────────────────────────────────────
+- Autenticación: foto, PIN, tarjeta, usuario/contraseña, LDAP, ID de departamento, uniFLOW Online Express.
+- Seguridad de datos: cifrado SSD (FIPS140‑2/3), TPM 2.0, bloqueo de SSD, inicialización segura.
+- Seguridad de red: TLS 1.3, IPSec, IEEE802.1X, SNMP v3.0, firewall (filtro IP/MAC), WPA3, red dual (cable/inalámbrica).
+- Gestión remota: iWEMC, eMaintenance, Content Delivery System.
+- Plataforma de aplicaciones: MEAP (Multi‑functional Embedded Application Platform).
+- Soluciones móviles: AirPrint, Mopria, Universal Print, Canon PRINT Business, uniFLOW Online.
+
+────────────────────────────────────────────
+8) CONSUMIBLES Y RENDIMIENTO
+────────────────────────────────────────────
+- Tóner para color C3900: C‑EXV 64 BK (38.000 págs. al 5%) / C/M/Y (25.500 págs.).
+- Tóner para color C5800: C‑EXV 51 BK (57.000) / C/M/Y (49.000).
+- Tóner para blanco y negro serie 6800: C‑EXV 61 BK (71.500 págs. al 6% de cobertura).
+- Cartuchos de grapas: P1 (2×5000 uds.) y Y1 (2×2000 uds. para cuadernillos).
+
+────────────────────────────────────────────
+9) RECOMENDACIONES COMERCIALES PARA SELECCIÓN
+────────────────────────────────────────────
+- Si el cliente imprime menos de 10.000 páginas/mes con color: recomendar serie C3900 (C3926i o C3930i).
+- Si imprime entre 10.000‑30.000 páginas/mes en color: serie C5800 (C5840i o C5850i).
+- Si supera 30.000 páginas/mes en color: C5860i o C5870i (velocidades de 60‑70 ppm).
+- Si el volumen es mayoritariamente blanco y negro (más de 20.000 págs./mes): serie 6800 (6855i, 6860i o 6870i según necesidad de velocidad).
+- Para oficinas con necesidad de encuadernación y folletos: asegurar finalizador de cuadernillos AB1.
+- Para departamentos con datos sensibles (legal, financiero): priorizar modelos con cifrado FIPS y TPM 2.0 (todas las series lo incluyen).
+
+────────────────────────────────────────────
+NOTAS IMPORTANTES
+────────────────────────────────────────────
+- Las fichas técnicas NO incluyen precios públicos; estos se proporcionan mediante cotización personalizada con distribuidor autorizado.
+- Disponibilidad de opciones y accesorios puede variar según región.
+- Para instalaciones de gran capacidad se requiere espacio adicional (consultar dimensiones totalmente configuradas).
+- El consumo eléctrico máximo varía entre 1500 W (C3900) y 2000 W (C5870i / 6870i).
+- La garantía de 36 meses on site aplica solo para la serie 6800; para las demás, consultar condiciones con el representante local.
+- Contacto para cotizaciones y soporte: remitir al cliente al área comercial (teléfono / correo del distribuidor).

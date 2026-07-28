@@ -1,0 +1,38 @@
+# METADATOS
+categoria: agendamiento_de_citas
+fuente: sitio web oficial (x.com) + manual de operacion
+fecha_actualizacion: 2026-07-20
+version: 0.5
+estado: PARCIAL - PENDIENTE CONFIRMAR
+# FIN METADATOS
+
+TÍTULO: Cómo Agendar una Cita
+
+MODALIDAD: La atención se maneja por agendamiento.
+
+CANALES PARA AGENDAR
+- WhatsApp directo: +51 485 25 159 (canal principal).
+- Botón "Agenda Cita" en el sitio web x.com.
+- Se confirma disponibilidad por mensaje.
+
+COMPROMISO DE RESPUESTA
+- El equipo responde en menos de 15 minutos (fase de agendamiento del manual de operación).
+
+DATOS QUE SE SOLICITAN PARA AGENDAR
+[PENDIENTE — CONFIRMAR lista oficial]. Propuesta a validar:
+- Nombre del paciente (y del padre/madre/tutor si es menor).
+- Edad del paciente.
+- Motivo de la consulta / servicio deseado.
+- Fecha y horario preferido.
+- Teléfono de contacto.
+
+CONFIRMACIÓN Y RECORDATORIO
+- Se envía un recordatorio 24 horas antes de la cita (ver documento 07).
+
+REAGENDAR / CANCELAR
+- Cancelación: avisar con mínimo 4 horas de anticipación (ver documento 06_politicas).
+- Proceso para reagendar: [PENDIENTE — CONFIRMAR]
+
+PRIMERA VISITA
+- Recomendaciones o requisitos para la primera cita (ej. llegar antes, traer estudios previos):
+  [PENDIENTE — CONFIRMAR]
